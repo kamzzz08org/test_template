@@ -1,9 +1,8 @@
 {
-  "description": "A LTI-MosaicThings Workbench Project",
-  "dependencies": {},
-  "node-red": {
+    "node-red": {
         "settings": {
             "flowFile": "flows.json",
             "credentialsFile": "flows_cred.json"
         }
+    }
 }
